@@ -25,7 +25,7 @@ Changes made to gutenberg html files
 ====================================
 
 The changes have been made in the css.
-
+```
 body {
   font-size: 14px;
   font-weight: 600;
@@ -50,5 +50,5 @@ h1,h2,h3,h4,h5{
 img{
   border-radius: 10rem;
 }
-
+```
 
